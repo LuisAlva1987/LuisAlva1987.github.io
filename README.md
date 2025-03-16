@@ -1,8 +1,7 @@
 # Portfolio
 
 ## About me: 
-I am bilingual (english and native spanish) data analyst passionate about solving challenging problems with a proven track record of creating data-driven solutions to optimize business operations, enhance customer experience, and secure an online market place through fraud prevention analytics. 
-My core competencies include analyzing large and complex datasets to dentify patterns and trends, apply data visualization tools and generate actionable insights and recommendations. I use SQL and Python as analytics languages and Snowflake, Looker, and dbt as data stack tools at my current position.
+I am bilingual (english and native spanish) data analyst passionate about solving challenging problems with a proven record of delivering data-driven solutions that optimize business operations, enhance customer experience, and bolster online marketplace security through effective fraud prevention analytics. Skilled in analyzing large and complex datasets to uncover patterns and generate actionable insights and recommendations that drive strategic decision-making
 
 ----
 
@@ -12,12 +11,10 @@ My core competencies include analyzing large and complex datasets to dentify pat
 
 ----
 
-## Technical Skills
-* SQL
-* Python
-* Snowflake
-* Looker
-* dbt
+Programing Languages: 	SQL, Python (Pandas, Numpy), LookML
+Tools: 			Snowflake, Looker, dbt, Git, Github, Google Big Query, Excel, Google Sheets
+Data Visualization: 	Python (Matplotlib, Seaborn), Tableau, Streamlit
+Languages: 		English (Fluent), Spanish (Native)
 
 -----
 
@@ -26,5 +23,7 @@ My core competencies include analyzing large and complex datasets to dentify pat
 ### [American Hospital Association Survey Data Analysis](https://luisalva1987.github.io/American_Hospital_Association_Survey/) 
 
 For this project I used SQL to analyze survey data from the American Hospital Association (AHA) from patients’ perspectives on hospital care in order to uncover health care issues and trends.
+
+### [Copa America Final](https://github.com/LuisAlva1987/copa_america_app/)
 
 
