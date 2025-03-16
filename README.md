@@ -11,10 +11,11 @@ I am bilingual (english and native spanish) data analyst passionate about solvin
 
 ----
 
-#### Programing Languages: 	SQL, Python (Pandas, Numpy), LookML
-#### Tools: 			          Snowflake, Looker, dbt, Git, Github, Google Big Query, Excel, Google Sheets
-#### Data Visualization: 	  Python (Matplotlib, Seaborn), Tableau, Streamlit
-#### Languages: 		        English (Fluent), Spanish (Native)
+## Skills
+#### Programing Languages: SQL, Python (Pandas, Numpy), LookML
+#### Tools: Snowflake, Looker, dbt, Git, Github, Google Big Query, Excel, Google Sheets
+#### Data Visualization: Python (Matplotlib, Seaborn), Tableau, Streamlit
+#### Languages: English (Fluent), Spanish (Native)
 
 -----
 
