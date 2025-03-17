@@ -25,6 +25,6 @@ I am bilingual (english and native spanish) data analyst passionate about solvin
 
 For this project I used SQL to analyze survey data from the American Hospital Association (AHA) from patients’ perspectives on hospital care in order to uncover health care issues and trends.
 
-### [Copa America Final Game](https://github.com/LuisAlva1987/copa_america_app/)
+### [Copa America Final Game](https://luisalva1987.github.io/copa_america_app/)
 
 
