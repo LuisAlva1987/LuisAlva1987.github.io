@@ -27,6 +27,6 @@ For this project I used SQL to analyze survey data from the American Hospital As
 
 ### [Copa America Final Game](https://luisalva1987.github.io/copa_america_app/)
 
-For this project I used Python and Streamlit to create an app to analyse player individual performance for the Copa America tournament final game played between Argentina and Colombia in July 15, 2024.
+For this project, I utilized Python and Streamlit to develop an interactive app that analyzes individual player performance during the Copa America 2024 final between Argentina and Colombia, held on July 15, 2024.
 
 
