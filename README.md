@@ -21,12 +21,12 @@ I am bilingual (english and native spanish) data analyst passionate about solvin
 
 ## Projects
 
-## SQL
+### SQL
 ### [American Hospital Association Survey Data Analysis](https://luisalva1987.github.io/American_Hospital_Association_Survey/) 
 
 For this project I used SQL to analyze survey data from the American Hospital Association (AHA) from patients’ perspectives on hospital care in order to uncover health care issues and trends.
 
-## Python
+### Python
 ### [Copa America Final Game](https://luisalva1987.github.io/copa_america_app/)
 
 For this project, I utilized Python and Streamlit to develop an interactive app that analyzes individual player performance during the Copa America 2024 final between Argentina and Colombia, held on July 15, 2024.
