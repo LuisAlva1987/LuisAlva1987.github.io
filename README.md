@@ -32,4 +32,8 @@ For this project I used SQL to analyze survey data from the American Hospital As
 
 For this project, I utilized Python and Streamlit to develop an interactive app that analyzes individual player performance during the Copa America 2024 final between Argentina and Colombia, held on July 15, 2024.
 
+### [Bundesliga Left-Footed Players](https://luisalva1987.github.io/left_foot_players/)
+
+For this project, I used Python, specifically the Pandas library, to uncover key insights related to left-footed professional soccer players in the German Bundesliga.
+
 
